@@ -1,0 +1,14 @@
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\bin\Debug\net8.0\051024 Circle Objects Lab.exe
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\bin\Debug\net8.0\051024 Circle Objects Lab.deps.json
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\bin\Debug\net8.0\051024 Circle Objects Lab.runtimeconfig.json
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\bin\Debug\net8.0\051024 Circle Objects Lab.dll
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\bin\Debug\net8.0\051024 Circle Objects Lab.pdb
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\obj\Debug\net8.0\051024 Circle Objects Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\obj\Debug\net8.0\051024 Circle Objects Lab.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\obj\Debug\net8.0\051024 Circle Objects Lab.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\obj\Debug\net8.0\051024 Circle Objects Lab.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\obj\Debug\net8.0\051024 Circle Objects Lab.dll
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\obj\Debug\net8.0\refint\051024 Circle Objects Lab.dll
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\obj\Debug\net8.0\051024 Circle Objects Lab.pdb
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\obj\Debug\net8.0\051024 Circle Objects Lab.genruntimeconfig.cache
+C:\Users\Victoria\source\repos\051024 Circle Objects Lab\051024 Circle Objects Lab\obj\Debug\net8.0\ref\051024 Circle Objects Lab.dll
